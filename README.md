@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm B3nj1</h1>
-<h3 align="center">passionate with the informatics</h3>
+<h3 align="center">Passionate with computer systems</h3>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
