@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/b3nj1-1](https://github.com/b3nj1-1)
 
-- 📝 I casually write articles on [https://b3nj1-1.github.io/](https://b3nj1-1.github.io/)
+- 📝 I casually write articles on [https://b3nj1-1.github.io/blog](https://b3nj1-1.github.io/blog/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
