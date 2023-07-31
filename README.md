@@ -4,7 +4,7 @@
 <img align="right" height="170rem" alt="IMG" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3nj1-1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 
 - 🌱 I’m currently learning Programming and Pentesting
-- 📝 I casually write articles on [Blog](https://b3nj1-1.github.io/blog/)
+- 📝 I casually write articles on [Blog](https://blog.b3nj1.net/)
 - 🎩 My HackTheBox: [B3nj1](https://app.hackthebox.eu/profile/257310)
 
 <hr>
