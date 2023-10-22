@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm B3nj1</h2>
  
 
-<img align="right" height="170rem" alt="IMG" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3nj1-1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img align="right" height="170rem" alt="IMG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3nj1-1&layout=compact" />
 
 - 🌱 I’m currently learning Programming and Pentesting
 - 📝 I casually write articles on [Blog](https://blog.b3nj1.net/)
